@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict agricultural and environmental outcomes using machine learning models. We use various environmental factors such as average temperature, precipitation, CO2 emissions, crop yield, and more to forecast key agricultural and economic impacts. We evaluated the performance of two models: a baseline model and an advanced XGBoost model. The project includes data preprocessing, model training, and analysis of relationships between variables to derive insights that could improve prediction accuracy and inform agricultural practices.
+This project aims to predict agricultural and environmental outcomes using machine learning models. We use various environmental factors such as average temperature, precipitation, CO2 emissions, crop yield, and more to forecast key agricultural and economic impacts.
 
 ### Key Objectives
 
