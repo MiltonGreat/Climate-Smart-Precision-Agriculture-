@@ -39,7 +39,6 @@ XGBoost Model:
 - R² Score: 0.2696
 
 Both models demonstrate significant room for improvement, with the R² scores indicating that more sophisticated models or feature engineering are needed.
-Feature Correlations
 
 #### Key insights from the correlation analysis include:
 
